@@ -2,7 +2,7 @@ var friendsList = [
 
 	{
 		name: "Doctor Watson",
-		photoURL: "dr__watson.jpg"
+		photoURL: "dr__watson.jpg",
 		surveyResponses: [3, 5, 1, 1, 3, 2, 5, 1, 1, 1]
 
 	}, {
